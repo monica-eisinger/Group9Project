@@ -22,7 +22,8 @@ Class project for COP 4331C-0002, Spring '19
 note: each item needs to link directly to the actual product
 
 - [Product Backlog](https://github.com/monica-eisinger/Group9Project/blob/master/sprint1/product_backlog.md)
-- [Sprint Backlog](https://docs.google.com/spreadsheets/d/1rNBva1ee07ogFZpcWI9iJyN0wHSwmDBkN0dmzKAA6IU/edit?usp=sharing)
+- [Sprint backlog for all sprint tasks](https://docs.google.com/spreadsheets/d/1rNBva1ee07ogFZpcWI9iJyN0wHSwmDBkN0dmzKAA6IU/edit#gid=0)
+- Sprint #1 Backlog
   - Burndown Chart
 - Requirements
 - Design Documents
