@@ -26,6 +26,7 @@ note: each item needs to link directly to the actual product
   - System Architecture
   - Class Diagrams
   - Sequence Diagrams
+  - Build vs. Buy decisions
   - etc.
 - Source Code
 - Test Cases
