@@ -10,7 +10,7 @@ Class project for COP 4331C-0002, Spring '19
 
 #### Vision Statement
 1. For the sickly among us.
-2. Who/That ... (describe what need your product solves)
+2. A one-stop shop for diagnoses and specialist research.
 3. The product ... (product name,or product category)
 4. That leads to ... (main advantage, appealing reason for purchase)
 5. Unlike the ... (principal competing alternatives)
