@@ -10,7 +10,7 @@ Class project for COP 4331C-0002, Spring '19
 
 #### Vision Statement
 **_(need to fill in)_**
-1. For ... (the product’s target market)
+1. For the sickly among us.
 2. Who/That ... (describe what need your product solves)
 3. The product ... (product name,or product category)
 4. That leads to ... (main advantage, appealing reason for purchase)
