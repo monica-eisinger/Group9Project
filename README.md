@@ -26,5 +26,5 @@ Class project for COP 4331C-0002, Spring '19
   - Build vs. Buy decisions
   - etc.
 - [Source Code](https://github.com/monica-eisinger/Group9Project/tree/master/SickoSearch)
-- Test Cases
+- [Test Cases](https://github.com/monica-eisinger/Group9Project/tree/master/SickoSearch/SickoSearchTests) and [UI Tests](https://github.com/monica-eisinger/Group9Project/tree/master/SickoSearch/SickoSearchUITests)
 - Product Demonstration
