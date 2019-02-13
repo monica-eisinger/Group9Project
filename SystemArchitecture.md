@@ -34,8 +34,10 @@
 # Fault Tolerance
 
 # Architectural Feasibility
-
+  For our UI, we will need to make a prototype and make sure it is easily used and intuitive for the user. We will also need to make sure whichever database we use to match symptoms with diseases can handle multiple people querying it at the same time.
+  
 # Overengineering
+  We will probably err on the side of overengineering since this is a fairly straightforward application to create.
 
 # Build-vs-Buy Decisions
 
