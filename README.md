@@ -27,6 +27,7 @@ note: each item needs to link directly to the actual product
   - Class Diagrams
   - Sequence Diagrams
   - Build vs. Buy decisions
+  - [UI Design](https://docs.google.com/document/d/1Esc5vS-6CllqkaG_ZgRBLh_q0_VbEAA3X8glRqX5Z8Y/edit?usp=sharing)
   - etc.
 - Source Code
 - Test Cases
