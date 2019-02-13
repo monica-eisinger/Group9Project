@@ -12,6 +12,7 @@
 # Resource Management
 
 # Security
+  We will not be storing user data, so we don't need to deal with membership security, but we do need to take into account buffer overflow when programming because of the symptom search bar.
 
 # Performance
 
