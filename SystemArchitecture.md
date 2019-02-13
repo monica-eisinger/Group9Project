@@ -15,9 +15,11 @@
   We will not be storing user data, so we don't need to deal with membership security, but we do need to take into account buffer overflow when programming because of the symptom search bar.
 
 # Performance
+  There shouldn't be many problems with memory space since we aren't storing membership data, and we use a database to search symptoms, so we don't have to store a ton of symptoms and diseases.
 
 # Scalability
-
+  The searching shouldn't be an issue with future users, as long as the databases can handle a lot of traffic, which we need to look into. Since we don't store user data, we don't need to expand our servers as we get more users. 
+  
 # Interoperability
 
 # Internationalization/Localization
