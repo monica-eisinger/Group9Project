@@ -21,10 +21,13 @@
   The searching shouldn't be an issue with future users, as long as the databases can handle a lot of traffic, which we need to look into. Since we don't store user data, we don't need to expand our servers as we get more users. 
   
 # Interoperability
-
+  Our application will share a database to search for symptoms and find diseases. (Fill in how doing it.)
+  
 # Internationalization/Localization
-
+  We don't have plans at this time to internationalize our application, we think we will stick to the United States and use English as our language.
+  
 # Input/Output
+  We need to detect that symptoms put into the symptom textfield are actually symptoms, so we will need to check that the inputs meet what a symptom would be, so no numbers, nothing other than letters really. We will use a look-ahead reading scheme for out I/O, and so we will detect I/O errors at the field.
 
 # Error Processing
 
