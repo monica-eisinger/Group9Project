@@ -7,6 +7,7 @@
 # Business Rules
 
 # User Interface Design
+  [UI Sketch](https://docs.google.com/document/d/1Esc5vS-6CllqkaG_ZgRBLh_q0_VbEAA3X8glRqX5Z8Y/edit?usp=sharing)
 
 # Resource Management
 
