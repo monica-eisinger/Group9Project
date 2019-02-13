@@ -21,7 +21,7 @@ note: each item needs to link directly to the actual product
 - [Product Backlog](https://docs.google.com/spreadsheets/d/1rNBva1ee07ogFZpcWI9iJyN0wHSwmDBkN0dmzKAA6IU/edit?usp=sharing)
 - [Sprint #1 Backlog](https://docs.google.com/spreadsheets/d/1VtnafDpm_alkT7DBY5xfz9L-2IC0zbn3A8S6_URzlKM/edit?usp=sharing)
   - [Burndown Chart (see second tab)](https://docs.google.com/spreadsheets/d/1VtnafDpm_alkT7DBY5xfz9L-2IC0zbn3A8S6_URzlKM/edit?usp=sharing) 
-- Requirements
+- [Requirements](https://docs.google.com/spreadsheets/d/158JywpFiwMaObpQDWrJs8no_p14ZUjh9MYrDVs9VheY/edit?usp=sharing)
 - Design Documents
   - System Architecture
   - Class Diagrams
