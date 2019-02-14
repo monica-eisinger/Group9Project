@@ -3,6 +3,7 @@
 # Major Classes
 
 # Data Design
+  [ERD Diagram of Database](https://github.com/monica-eisinger/Group9Project/blob/master/sprint1/ERD_Database.png)
 
 # Business Rules
 
