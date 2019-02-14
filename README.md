@@ -21,7 +21,7 @@ Class project for COP 4331C-0002, Spring '19
 - [Requirements](https://docs.google.com/spreadsheets/d/158JywpFiwMaObpQDWrJs8no_p14ZUjh9MYrDVs9VheY/edit?usp=sharing)
 - Design Documents
   - [System Architecture](https://github.com/monica-eisinger/Group9Project/blob/master/SystemArchitecture.md)
-  - Class Diagrams
+  - [Class Diagrams](https://github.com/monica-eisinger/Group9Project/blob/master/ClassDiagram1.pdf)
   - Sequence Diagrams
 - [Source Code](https://github.com/monica-eisinger/Group9Project/tree/master/SickoSearch)
 - [Test Cases](https://github.com/monica-eisinger/Group9Project/tree/master/SickoSearch/SickoSearchTests) and [UI Tests](https://github.com/monica-eisinger/Group9Project/tree/master/SickoSearch/SickoSearchUITests)
