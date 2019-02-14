@@ -4,7 +4,7 @@
   [Class Diagram](https://github.com/monica-eisinger/Group9Project/blob/master/ClassDiagram1.pdf)
 
 # Data Design
-  [ERD Diagram of Database](https://github.com/monica-eisinger/Group9Project/blob/master/sprint1/ERD_Database.png)
+  [ERD Diagram of Database](https://github.com/monica-eisinger/Group9Project/blob/master/sprint1/database_erd.png)
 
 # Business Rules
 
