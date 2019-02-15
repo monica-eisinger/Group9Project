@@ -9,7 +9,7 @@
 # Business Rules
 
 # User Interface Design
-  [UI Sketch](https://drive.google.com/file/d/1dLmk18_WS8frqBV0CPECexv8PHUI4Gj0/view?usp=sharing)
+  [UI Sketch](https://github.com/monica-eisinger/Group9Project/blob/master/sprint1/GUI_Diagram.png)
 
 # Resource Management
 
