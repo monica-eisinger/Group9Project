@@ -1,0 +1,585 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		49756B11221B4A110070E830 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49756B10221B4A110070E830 /* AppDelegate.swift */; };
+		49756B13221B4A110070E830 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49756B12221B4A110070E830 /* ViewController.swift */; };
+		49756B16221B4A110070E830 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49756B14221B4A110070E830 /* Main.storyboard */; };
+		49756B18221B4A130070E830 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49756B17221B4A130070E830 /* Assets.xcassets */; };
+		49756B1B221B4A130070E830 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49756B19221B4A130070E830 /* LaunchScreen.storyboard */; };
+		49756B26221B4A130070E830 /* SickoSearchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49756B25221B4A130070E830 /* SickoSearchTests.swift */; };
+		49756B31221B4A130070E830 /* SickoSearchUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49756B30221B4A130070E830 /* SickoSearchUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		49756B22221B4A130070E830 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 49756B05221B4A100070E830 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 49756B0C221B4A100070E830;
+			remoteInfo = SickoSearch;
+		};
+		49756B2D221B4A130070E830 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 49756B05221B4A100070E830 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 49756B0C221B4A100070E830;
+			remoteInfo = SickoSearch;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		49756B0D221B4A110070E830 /* SickoSearch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SickoSearch.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		49756B10221B4A110070E830 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		49756B12221B4A110070E830 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		49756B15221B4A110070E830 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		49756B17221B4A130070E830 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		49756B1A221B4A130070E830 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		49756B1C221B4A130070E830 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		49756B21221B4A130070E830 /* SickoSearchTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SickoSearchTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		49756B25221B4A130070E830 /* SickoSearchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SickoSearchTests.swift; sourceTree = "<group>"; };
+		49756B27221B4A130070E830 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		49756B2C221B4A130070E830 /* SickoSearchUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SickoSearchUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		49756B30221B4A130070E830 /* SickoSearchUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SickoSearchUITests.swift; sourceTree = "<group>"; };
+		49756B32221B4A130070E830 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		49756B0A221B4A100070E830 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		49756B1E221B4A130070E830 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		49756B29221B4A130070E830 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		49756B04221B4A100070E830 = {
+			isa = PBXGroup;
+			children = (
+				49756B0F221B4A110070E830 /* SickoSearch */,
+				49756B24221B4A130070E830 /* SickoSearchTests */,
+				49756B2F221B4A130070E830 /* SickoSearchUITests */,
+				49756B0E221B4A110070E830 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		49756B0E221B4A110070E830 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				49756B0D221B4A110070E830 /* SickoSearch.app */,
+				49756B21221B4A130070E830 /* SickoSearchTests.xctest */,
+				49756B2C221B4A130070E830 /* SickoSearchUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		49756B0F221B4A110070E830 /* SickoSearch */ = {
+			isa = PBXGroup;
+			children = (
+				49756B10221B4A110070E830 /* AppDelegate.swift */,
+				49756B12221B4A110070E830 /* ViewController.swift */,
+				49756B14221B4A110070E830 /* Main.storyboard */,
+				49756B17221B4A130070E830 /* Assets.xcassets */,
+				49756B19221B4A130070E830 /* LaunchScreen.storyboard */,
+				49756B1C221B4A130070E830 /* Info.plist */,
+			);
+			path = SickoSearch;
+			sourceTree = "<group>";
+		};
+		49756B24221B4A130070E830 /* SickoSearchTests */ = {
+			isa = PBXGroup;
+			children = (
+				49756B25221B4A130070E830 /* SickoSearchTests.swift */,
+				49756B27221B4A130070E830 /* Info.plist */,
+			);
+			path = SickoSearchTests;
+			sourceTree = "<group>";
+		};
+		49756B2F221B4A130070E830 /* SickoSearchUITests */ = {
+			isa = PBXGroup;
+			children = (
+				49756B30221B4A130070E830 /* SickoSearchUITests.swift */,
+				49756B32221B4A130070E830 /* Info.plist */,
+			);
+			path = SickoSearchUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		49756B0C221B4A100070E830 /* SickoSearch */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 49756B35221B4A130070E830 /* Build configuration list for PBXNativeTarget "SickoSearch" */;
+			buildPhases = (
+				49756B09221B4A100070E830 /* Sources */,
+				49756B0A221B4A100070E830 /* Frameworks */,
+				49756B0B221B4A100070E830 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SickoSearch;
+			productName = SickoSearch;
+			productReference = 49756B0D221B4A110070E830 /* SickoSearch.app */;
+			productType = "com.apple.product-type.application";
+		};
+		49756B20221B4A130070E830 /* SickoSearchTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 49756B38221B4A130070E830 /* Build configuration list for PBXNativeTarget "SickoSearchTests" */;
+			buildPhases = (
+				49756B1D221B4A130070E830 /* Sources */,
+				49756B1E221B4A130070E830 /* Frameworks */,
+				49756B1F221B4A130070E830 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				49756B23221B4A130070E830 /* PBXTargetDependency */,
+			);
+			name = SickoSearchTests;
+			productName = SickoSearchTests;
+			productReference = 49756B21221B4A130070E830 /* SickoSearchTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		49756B2B221B4A130070E830 /* SickoSearchUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 49756B3B221B4A130070E830 /* Build configuration list for PBXNativeTarget "SickoSearchUITests" */;
+			buildPhases = (
+				49756B28221B4A130070E830 /* Sources */,
+				49756B29221B4A130070E830 /* Frameworks */,
+				49756B2A221B4A130070E830 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				49756B2E221B4A130070E830 /* PBXTargetDependency */,
+			);
+			name = SickoSearchUITests;
+			productName = SickoSearchUITests;
+			productReference = 49756B2C221B4A130070E830 /* SickoSearchUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		49756B05221B4A100070E830 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1010;
+				LastUpgradeCheck = 1010;
+				ORGANIZATIONNAME = "Group 9";
+				TargetAttributes = {
+					49756B0C221B4A100070E830 = {
+						CreatedOnToolsVersion = 10.1;
+					};
+					49756B20221B4A130070E830 = {
+						CreatedOnToolsVersion = 10.1;
+						TestTargetID = 49756B0C221B4A100070E830;
+					};
+					49756B2B221B4A130070E830 = {
+						CreatedOnToolsVersion = 10.1;
+						TestTargetID = 49756B0C221B4A100070E830;
+					};
+				};
+			};
+			buildConfigurationList = 49756B08221B4A100070E830 /* Build configuration list for PBXProject "SickoSearch" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 49756B04221B4A100070E830;
+			productRefGroup = 49756B0E221B4A110070E830 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				49756B0C221B4A100070E830 /* SickoSearch */,
+				49756B20221B4A130070E830 /* SickoSearchTests */,
+				49756B2B221B4A130070E830 /* SickoSearchUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		49756B0B221B4A100070E830 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				49756B1B221B4A130070E830 /* LaunchScreen.storyboard in Resources */,
+				49756B18221B4A130070E830 /* Assets.xcassets in Resources */,
+				49756B16221B4A110070E830 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		49756B1F221B4A130070E830 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		49756B2A221B4A130070E830 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		49756B09221B4A100070E830 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				49756B13221B4A110070E830 /* ViewController.swift in Sources */,
+				49756B11221B4A110070E830 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		49756B1D221B4A130070E830 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				49756B26221B4A130070E830 /* SickoSearchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		49756B28221B4A130070E830 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				49756B31221B4A130070E830 /* SickoSearchUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		49756B23221B4A130070E830 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 49756B0C221B4A100070E830 /* SickoSearch */;
+			targetProxy = 49756B22221B4A130070E830 /* PBXContainerItemProxy */;
+		};
+		49756B2E221B4A130070E830 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 49756B0C221B4A100070E830 /* SickoSearch */;
+			targetProxy = 49756B2D221B4A130070E830 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		49756B14221B4A110070E830 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				49756B15221B4A110070E830 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		49756B19221B4A130070E830 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				49756B1A221B4A130070E830 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		49756B33221B4A130070E830 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		49756B34221B4A130070E830 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		49756B36221B4A130070E830 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = SickoSearch/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = G9.SickoSearch;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		49756B37221B4A130070E830 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = SickoSearch/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = G9.SickoSearch;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		49756B39221B4A130070E830 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = SickoSearchTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = G9.SickoSearchTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SickoSearch.app/SickoSearch";
+			};
+			name = Debug;
+		};
+		49756B3A221B4A130070E830 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = SickoSearchTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = G9.SickoSearchTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SickoSearch.app/SickoSearch";
+			};
+			name = Release;
+		};
+		49756B3C221B4A130070E830 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = SickoSearchUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = G9.SickoSearchUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = SickoSearch;
+			};
+			name = Debug;
+		};
+		49756B3D221B4A130070E830 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = SickoSearchUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = G9.SickoSearchUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = SickoSearch;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		49756B08221B4A100070E830 /* Build configuration list for PBXProject "SickoSearch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				49756B33221B4A130070E830 /* Debug */,
+				49756B34221B4A130070E830 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		49756B35221B4A130070E830 /* Build configuration list for PBXNativeTarget "SickoSearch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				49756B36221B4A130070E830 /* Debug */,
+				49756B37221B4A130070E830 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		49756B38221B4A130070E830 /* Build configuration list for PBXNativeTarget "SickoSearchTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				49756B39221B4A130070E830 /* Debug */,
+				49756B3A221B4A130070E830 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		49756B3B221B4A130070E830 /* Build configuration list for PBXNativeTarget "SickoSearchUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				49756B3C221B4A130070E830 /* Debug */,
+				49756B3D221B4A130070E830 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 49756B05221B4A100070E830 /* Project object */;
+}
