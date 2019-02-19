@@ -24,5 +24,5 @@ Class project for COP 4331C-0002, Spring '19
   - [Class Diagrams](https://github.com/monica-eisinger/Group9Project/blob/master/ClassDiagram1.pdf)
   - Sequence Diagrams
 - [Source Code](https://github.com/monica-eisinger/Group9Project/tree/master/SickoSearch%20Update/SickoSearch%20copy/SickoSearch)
-- [Test Cases](https://github.com/monica-eisinger/Group9Project/tree/master/SickoSearch/SickoSearchTests) and [UI Tests](https://github.com/monica-eisinger/Group9Project/tree/master/SickoSearch/SickoSearchUITests)
+- [Test Cases](https://github.com/monica-eisinger/Group9Project/tree/master/SickoSearch%20Update/SickoSearch%20copy/SickoSearchTests) and [UI Tests](https://github.com/monica-eisinger/Group9Project/tree/master/SickoSearch/SickoSearchUITests)
 - [Product Demonstration](https://youtu.be/cVof395JKd0)
