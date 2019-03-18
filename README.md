@@ -37,5 +37,5 @@ Class project for COP 4331C-0002, Spring '19
   - Class Diagrams
   - Sequence Diagrams
 - Source Code
-- Test Cases
+- [Test Cases](https://docs.google.com/document/d/1b3ZuP2eJtuamH37Ce9hzRJ43uQbA19Z3AurQEvtO3g4/edit?usp=sharing)
 - Product Demonstration
