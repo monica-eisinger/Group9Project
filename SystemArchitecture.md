@@ -7,8 +7,6 @@
   [ERD Diagram of Database](https://github.com/monica-eisinger/Group9Project/blob/master/sprint1/database_erd.png)
 
 # Business Rules
-  We don't want to exclude any credible doctors from search results.
-  We don't want to emphasize using one doctor over another one, just give all options based on proximity. 
 
 # User Interface Design
   [UI Sketch](https://github.com/monica-eisinger/Group9Project/blob/master/SickoSearch_UI.png)
