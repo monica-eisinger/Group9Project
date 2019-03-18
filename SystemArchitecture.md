@@ -1,7 +1,7 @@
 # Program Organization
 
 # Major Classes
-  [Class Diagram](https://github.com/monica-eisinger/Group9Project/blob/master/ClassDiagram1.pdf)
+  [Class Diagram](https://github.com/monica-eisinger/Group9Project/blob/master/class_diagram_2.pdf)
 
 # Data Design
   [ERD Diagram of Database](https://github.com/monica-eisinger/Group9Project/blob/master/sprint1/database_erd.png)
@@ -9,7 +9,7 @@
 # Business Rules
 
 # User Interface Design
-  [UI Sketch](https://github.com/monica-eisinger/Group9Project/blob/master/sprint1/GUI_Diagram.png)
+  [UI Sketch](https://github.com/monica-eisinger/Group9Project/blob/master/SickoSearch_UI.png)
 
 # Resource Management
 
