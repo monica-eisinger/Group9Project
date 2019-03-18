@@ -15,6 +15,7 @@
   UI Sketch
 
 # Resource Management
+  Resource management will not be an issue for us, as we won't be storing any of the user's data, and thus will not require databases and servers to store this information. We will be using an externally provided database of doctors within the state of Florida, so storing this information will also be a non-issue. Our application will run on the user's iPhone device and will not require purchasing any additional hardware or software. To develop this software, we will not require any additional hardware or software during the stages of development.
 
 # Security
   We will not be storing user data, so we don't need to deal with membership security, but we do need to take into account buffer overflow when programming because of the symptom search bar. We will ensure that all data will be flushed when the application is closed, although by not storing data this should not be a concern.
