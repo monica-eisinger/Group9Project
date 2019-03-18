@@ -47,8 +47,10 @@
   Overengineering should not be an issue because our design has a linear page progression flow for the user, and thus doesn't allow for much usability to be over-engineered.
   
 # Build-vs-Buy Decisions
-
+  Our decision to purchase access to an external database was due to information constraints, as we don't have access to contact information of specialists within the state of Florida, but can purchase this access through an external database. We're building everything else within this application, and the only time and access constraint we had was in regards to the doctor database.
 
 # Reuse
+  We believe parts of the application will be reusable within the future, such as the separate user interfaces, the ability to query a database, and the ability to connect with and display information with other applications within the user's iPhone device. 
 
 # Change Strategy
+  To facilitate simple change we are building the application following the Agile methodology, where we are building working iterations of the software first and then refactoring it to be as simple and easy to follow as possibile. We're modularizing the software as much as possibile to facilitate easy change, with minimal data coupling.
