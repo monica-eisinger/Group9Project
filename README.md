@@ -36,6 +36,7 @@ Class project for COP 4331C-0002, Spring '19
   - System Architecture
   - Class Diagrams
   - Sequence Diagrams
-- Source Code
+- [Source Code](https://github.com/monica-eisinger/Group9Project/tree/master/Sprint%202%20Code)
 - [Test Cases](https://docs.google.com/document/d/1b3ZuP2eJtuamH37Ce9hzRJ43uQbA19Z3AurQEvtO3g4/edit?usp=sharing)
+- [UI Tests](https://github.com/monica-eisinger/Group9Project/tree/master/Sprint%202%20Code/Sicko%20Search/Sicko%20SearchUITests)
 - Product Demonstration
