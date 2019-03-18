@@ -33,7 +33,7 @@ Class project for COP 4331C-0002, Spring '19
   - [Burndown Chart](https://docs.google.com/spreadsheets/d/1XD0tkVLNedeBVB1wIj-Z2k20_RZudR7ss31ckYsIlb0/edit?usp=sharing) 
 - [Requirements](https://docs.google.com/spreadsheets/d/1IYUuANzikZOvW5kThcdnmqp9r00zzlG-06B0f2ZskJA/edit?usp=sharing)
 - Design Documents
-  - System Architecture
+  - [System Architecture](https://github.com/monica-eisinger/Group9Project/blob/master/SystemArchitectureSprint2.md)
   - Class Diagrams
   - Sequence Diagrams
 - [Source Code](https://github.com/monica-eisinger/Group9Project/tree/master/Sprint%202%20Code)
