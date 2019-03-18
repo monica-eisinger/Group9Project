@@ -1,11 +1,11 @@
 # Program Organization
-  ***High-level sketch?***
+  ***High-level sketch (missing)***
 
 # Major Classes
  [Class Diagram](https://github.com/monica-eisinger/Group9Project/blob/master/class_diagram_2.pdf)
 
 # Data Design
-  ***ERD Diagram of Database***
+  [ERD Diagram of Database](https://github.com/monica-eisinger/Group9Project/blob/master/sprint1/database_erd.png)
 
 # Business Rules
   The assumptions that impact our program design is that we will be able to use external databases to query specialists within
