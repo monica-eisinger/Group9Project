@@ -2,7 +2,7 @@
   ***High-level sketch (missing)***
 
 # Major Classes
- [Class Diagram](https://github.com/monica-eisinger/Group9Project/blob/master/class_diagram_2.pdf)
+ [Class Diagram](https://github.com/monica-eisinger/Group9Project/blob/master/class_diagram_2%20(1).pdf)
 
 # Data Design
   [ERD Diagram of Database](https://github.com/monica-eisinger/Group9Project/blob/master/sprint1/database_erd.png)
