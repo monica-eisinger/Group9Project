@@ -3,7 +3,7 @@
 
 # Major Classes
  [Class Diagram](https://github.com/monica-eisinger/Group9Project/blob/master/class_diagram_2%20(1).pdf)
- UserInterface Class: Handles all the things that involve displaying information to the user and gathering user input. Hitting buttons, scrolling through lists, and displaying results to the user's screen. (Req: 2, 15, 16, 17, 20, 23)
+ UserInterface Class: Handles all the things that involve displaying information to the user and gathering user input. Hitting buttons, scrolling through lists, and displaying results to the user's screen. (Req: 2, 15, 16, 17, 20, 23)\n
  -Enter symptoms by checking boxes is done through the enterSymptoms() routine in this class, allowing the user to check and uncheck boxes to select what symptoms they are experiencing. (2)
  -Viewing the doctor's website is done through viewWebsite(), taking the string of the doctor's website and opening it with the Safari app, bringing them to the doctor's website. (15,17)
  -Calling the doctor is done through callDoctor(), taking the number of the doctor and opening it with the phone's phone app, allowing the user to call the doctor. (16)
