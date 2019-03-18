@@ -2,7 +2,7 @@
   ***High-level sketch?***
 
 # Major Classes
-  ***Class Diagram***
+ [Class Diagram](https://github.com/monica-eisinger/Group9Project/blob/master/class_diagram_2.pdf)
 
 # Data Design
   ***ERD Diagram of Database***
@@ -13,7 +13,7 @@
   data that they input into our application.
 
 # User Interface Design
-  ***UI Sketch***
+ [UI Sketch](https://github.com/monica-eisinger/Group9Project/blob/master/SickoSearch_UI.png)
 
 # Resource Management
   Resource management will not be an issue for us, as we won't be storing any of the user's data, and thus will not require databases and servers to store this information. We will be using an externally provided database of doctors within the state of Florida, so storing this information will also be a non-issue. Our application will run on the user's iPhone device and will not require purchasing any additional hardware or software. To develop this software, we will not require any additional hardware or software during the stages of development.
