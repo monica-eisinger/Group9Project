@@ -34,7 +34,7 @@ Class project for COP 4331C-0002, Spring '19
 - [Requirements](https://docs.google.com/spreadsheets/d/1IYUuANzikZOvW5kThcdnmqp9r00zzlG-06B0f2ZskJA/edit?usp=sharing)
 - Design Documents
   - [System Architecture](https://github.com/monica-eisinger/Group9Project/blob/master/SystemArchitectureSprint2.md)
-  - [Class Diagram]((https://github.com/monica-eisinger/Group9Project/blob/master/class_diagram_2.pdf))
+  - [Class Diagram](https://github.com/monica-eisinger/Group9Project/blob/master/class_diagram_2.pdf)
   - ***Sequence Diagrams*** (missing)
 - [Source Code](https://github.com/monica-eisinger/Group9Project/tree/master/Sprint%202%20Code)
 - [Test Cases](https://docs.google.com/document/d/1b3ZuP2eJtuamH37Ce9hzRJ43uQbA19Z3AurQEvtO3g4/edit?usp=sharing)
