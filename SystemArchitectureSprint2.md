@@ -7,6 +7,9 @@
   ERD Diagram of Database
 
 # Business Rules
+  The assumptions that impact our program design is that we will be able to use external databases to query specialists within
+  the state of Florida. Since HIPAA protects our users' personal health information, we we not be storing any of the 
+  data that they input into our application.
 
 # User Interface Design
   UI Sketch
