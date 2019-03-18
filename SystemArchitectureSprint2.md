@@ -1,11 +1,21 @@
 # Program Organization
-  ***High-level sketch (missing)***
+  ***High-level sketch?***
 
 # Major Classes
  [Class Diagram](https://github.com/monica-eisinger/Group9Project/blob/master/class_diagram_2%20(1).pdf)
+ UserInterface Class: Handles all the things that involve displaying information to the user and gathering user input. Hitting buttons, scrolling through lists, and displaying results to the user's screen. (Req: 2, 15, 16, 17, 20, 23)
+ -Enter symptoms by checking boxes is done through the enterSymptoms() routine in this class, allowing the user to check and uncheck boxes to select what symptoms they are experiencing. (2)
+ -Viewing the doctor's website is done through viewWebsite(), taking the string of the doctor's website and opening it with the Safari app, bringing them to the doctor's website. (15,17)
+ -Calling the doctor is done through callDoctor(), taking the number of the doctor and opening it with the phone's phone app, allowing the user to call the doctor. (16)
+ -Back button on each page done through the goBack() function, taking the user back to the previous page they were on. (20)
+ -Displaying a meme on the homepage done through displayMeme(), cycling through a number of predetermined memes upon interaction with the meme. (23)
+ 
+ FindSymptoms: The logic that takes the user's input and interprets the symptoms that the user put in to get a diagnosis. This class uses the symptoms database to help carry out the logic. (Req: 3, 4, 5, 6, 7, 10,  21)
+ -The Symptoms Database will contain 200 of the most common symptoms, sorted by body region. This class uses the database for dipslaying the different symptoms to the user, in sorted order by body region. (3,4,5)
+ 
 
 # Data Design
-  [ERD Diagram of Database](https://github.com/monica-eisinger/Group9Project/blob/master/sprint1/database_erd.png)
+  ***ERD Diagram of Database***
 
 # Business Rules
   The assumptions that impact our program design is that we will be able to use external databases to query specialists within
