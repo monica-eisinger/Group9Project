@@ -22,8 +22,19 @@
  
  -The determineDisease() will determine 5 different disease matches based on what the user has entered, these diseases will be sorted by percentage match for their most probable diseases, allowing the user to see what their diagnosis is. (6,7)
  
- -The symptomsList array will allow for users to make changes to the array and will persist between pages so the user can edit which symptoms they entered. (21) 
- -
+ -The symptomsList array will allow for users to make changes to the array and will persist between pages so the user can edit which symptoms they entered. (21)
+ 
+ FindSpecialists: The logic that takes the distance and specializations of different doctors and the symptoms that the user entered in order to create a set of specialists that the user can call or view their website. (8, 9, 10, 11)
+ 
+ -The number 1 percent match will be passed from the findSymptoms class in order to determine specializations, such that the most relevant disease that the user entered is used to determine which specialists they need. (8)
+ 
+ -The user will be able to specify a distanceRange as a choice between ranges of 0-5, 0-10 or 0-15 miles so that the user can determine for themselves how far they are willing to go and what options are available to them based on their chosen range. (9)
+ 
+ -Using the most probable disease and matching it to doctors that specialize in treating that disease while taking into account the distance from the user, the class will determine the specialists available to the user given all of the parameters they entered, and they will be sorted by distance. (10,11)
+
+SpecialistList: A class that holds a specialist and all of the relevant information that we need from them like their name, office address, website, phone number, and distance from the user. 
+
+GPS Service: Determines the location of the user so we can get distance values of how far the user is from the doctors that they are looking for. 
  
 
 # Data Design
