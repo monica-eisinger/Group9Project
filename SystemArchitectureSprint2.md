@@ -10,7 +10,7 @@
  
  -Viewing the doctor's website is done through viewWebsite(), taking the string of the doctor's website and opening it with the Safari app, bringing them to the doctor's website. (15,17)
  
- -Calling the doctor is done through callDoctor(), taking the number of the doctor and opening it with the phone's phone app, allowing the user to call the doctor. (16)
+ -Calling the doctor is done through callDoctor(), taking the number of the doctor and opening it with the phone's phone app, allowing the user to call the doctor. (16/18)
  
  -Back button on each page done through the goBack() function, taking the user back to the previous page they were on. (20)
  
@@ -47,6 +47,19 @@ GPS Service: Determines the location of the user so we can get distance values o
 
 # User Interface Design
  [UI Sketch](https://github.com/monica-eisinger/Group9Project/blob/master/SickoSearch_UI.png)
+ 
+ Initial Screen: Displays the title of the app, the button that begins the search, and a nice funny gif or meme to cheer up the sick person using the app. (Req: 23,24) There must be a "begin search" button on the first page so that the user knows when their search begins, the button brings the user to the next page where they can enter their symptoms and begin their search. (23) There is a spot for an image to go on the screen, where we can put the meme/gif to cheer up the user. 
+ 
+ Symptoms Screen: Sorts the 200 most common symptoms (3) by body part (4) with check boxes next to each symptom that the user can toggle between checked and unchecked (2) . By default, all are checked. If the user navigates to the next page, they can come back and edit their symptoms and what they had previously will not disappear. (21)
+ 
+ Diagnoses Screen: Displays the top 5 most relevant diseases based on the symptoms the user entered on the previous screen. The disease name, the percent match and a brief description of each disease will be shown on the screen. The top percent matching disease will be used to determine what specialists will be considered. The search of the user's symptoms must return 5 disease matches (6), it is displayed on this screen in order sorted by percentage match (7) so that the user can use the top result to search for a specialist (8). The top result is the one that is used in finding specialists in the next screens. 
+ 
+ Distance Screen: Displays a drop-down menu of 3 different choices for distance range, 5 miles, 10 miles and 15 miles. (Req 9) This value will be used to determine how far away the app will look for specialists.
+ 
+ Results Screen: Displays up to 5 matching doctors, sorted by closest distance to the user. (Req 10/11: the user is returned up to 5 doctors listed by distance) On this screen each of the doctors will have their name, how far away the user is, the doctor's phone number and their website. Tapping on the phone number will open the phone application and dial the number into the phone. (Req 16/18: the user can accesss the doctor's office's phone number through the app) Tapping on the website will open a link to the website within the Safari application. (Req 15/17: the user can accesss the doctor's website through the app.)
+ 
+ Connections: Each page has a back/continue button to navigate between each page in sequential order. (Req 20: There should be a back button on each page to access the previous page) The last screen lacks a continue button since it is the last screen. 
+ 
 
 # Resource Management
   Resource management will not be an issue for us, as we won't be storing any of the user's data, and thus will not require databases and servers to store this information. We will be using an externally provided database of doctors within the state of Florida, so storing this information will also be a non-issue. Our application will run on the user's iPhone device and will not require purchasing any additional hardware or software. To develop this software, we will not require any additional hardware or software during the stages of development.
