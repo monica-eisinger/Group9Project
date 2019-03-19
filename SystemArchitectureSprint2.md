@@ -1,5 +1,6 @@
 # Program Organization
   [High Level Sketch](https://github.com/monica-eisinger/Group9Project/blob/master/High%20Level%20Sketch.png)
+  
 In this Model-View-Controller architecture design, the doctor database and diagnoses databases are the models.  Within the  doctor database model, the doctor name, specialty, address, phone number, and website(if available) are stored.  Within the diagnoses database, the disease name, top symptoms, and brief description are stored. These can be traced back to the following user stores and requirements:
 - User Story 4: As a user, I want various diseases to be referenced in the app, so that it's more probable that I'll find a specialist.
 - User Story 6: As a user, I want various options of specialists (at least 5) to look through, so that I can have a range of options to choose from
@@ -7,16 +8,16 @@ In this Model-View-Controller architecture design, the doctor database and diagn
 - Requirement 8: The top-1 disease match must be used as data to search for a specialist.
 
 In the controller part of the database, the specialist logic, it is able to receive the data retrieved from the two databases and is used to update the User View and sort based on certain properties.  The following User Stories and Requirements that are explicitly traced to this portion:
--User Story 2: As a user, I want the 200 most common symptoms to be organized by body region so that I can check mine off for searching.
--User Story 5: As a user, I want to find a specialist for my illness, so that I can seek treatment.
--User Story 9: As a user, I want those listed specialists to be ordered by rating, so that I can find the most appropriate specialist for me.
--User Story 13: As a user, I want the doctor's website to open externally in my phone's web browser and not within the app.
--Requirement 3: 200 of the most common symptoms must be check box options for the symptoms.
--Requirement 4: The symptoms must be organized by body region.
--Requirement 5: The user's symptoms must be searched from within a database.
--Requirement 7: The returned disease matches must show a percentage match for the user's symptoms.
--Requirement 11: The 5 specialized doctors returned from the search default to being listed by distance.
--Requirement 19: A user's personal information will only be kept temporarily as variables and not stored inside the app.
+- User Story 2: As a user, I want the 200 most common symptoms to be organized by body region so that I can check mine off for searching.
+- User Story 5: As a user, I want to find a specialist for my illness, so that I can seek treatment.
+- User Story 9: As a user, I want those listed specialists to be ordered by rating, so that I can find the most appropriate specialist for me.
+- User Story 13: As a user, I want the doctor's website to open externally in my phone's web browser and not within the app.
+- Requirement 3: 200 of the most common symptoms must be check box options for the symptoms.
+- Requirement 4: The symptoms must be organized by body region.
+- Requirement 5: The user's symptoms must be searched from within a database.
+- Requirement 7: The returned disease matches must show a percentage match for the user's symptoms.
+- Requirement 11: The 5 specialized doctors returned from the search default to being listed by distance.
+- Requirement 19: A user's personal information will only be kept temporarily as variables and not stored inside the app.
 
 In the view portion of the system architecture, the User view will able to list all these possible diseases with the corresponding specialists and have the user look at it and select which one they want based on certain factors. The requirements and user stories that are traced to this portion of the architecture are:
 - User Story 3: As a user, I want a table to appear with up to 5 potential diagnoses after I click my symptoms, so I can see which illnesses I match to.
