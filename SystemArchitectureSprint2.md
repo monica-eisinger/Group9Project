@@ -2,7 +2,7 @@
   ***High-level sketch?***
 
 # Major Classes
- [Class Diagram](https://github.com/monica-eisinger/Group9Project/blob/master/class_diagram_2%20(1).pdf)
+ [Class Diagram](https://github.com/monica-eisinger/Group9Project/blob/master/ClassDiagram2.pdf)
  
  UserInterface Class: Handles all the things that involve displaying information to the user and gathering user input. Hitting buttons, scrolling through lists, and displaying results to the user's screen. (Req: 2, 15, 16, 17, 20, 23)
  
