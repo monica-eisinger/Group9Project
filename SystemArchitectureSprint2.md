@@ -73,7 +73,9 @@ GPS Service: Determines the location of the user so we can get distance values o
  
 
 # Data Design
-  ***ERD Diagram of Database***
+  [ERD Diagram of Database](https://github.com/monica-eisinger/Group9Project/blob/master/ERD_Diagram_Update.png)
+  
+  The main databases that will be implemented in this project are a Diagnosis Database, that has the name of the disease, common symptoms, and a short description of the disease, and a Physician Database that has the name of the doctor, address, specialty, phone number, and email address, and website. The diagram showcases how the Diagnoses/Disease Database is used/treated by the Physician Database.
 
 # Business Rules
   The assumptions that impact our program design is that we will be able to use external databases to query specialists within
