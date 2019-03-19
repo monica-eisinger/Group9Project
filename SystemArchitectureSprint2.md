@@ -32,9 +32,9 @@
  
  -Using the most probable disease and matching it to doctors that specialize in treating that disease while taking into account the distance from the user, the class will determine the specialists available to the user given all of the parameters they entered, and they will be sorted by distance. (10,11)
 
-SpecialistList: A class that holds a specialist and all of the relevant information that we need from them like their name, office address, website, phone number, and distance from the user. 
+SpecialistList: A class that holds a specialist and all of the relevant information that we need from them like their name, office address, website, phone number, and distance from the user. (Req: 10) The user needs to be returned the information that is contained in this class so that they can see up to 5 specialized doctors for their most probable disease. 
 
-GPS Service: Determines the location of the user so we can get distance values of how far the user is from the doctors that they are looking for. 
+GPS Service: Determines the location of the user so we can get distance values of how far the user is from the doctors that they are looking for. (Req: 9) The user must be able to specify a distance to search for specialists. This class allows the app to determine where the user is so that we can find doctors only in a range unique to the user and their specific location. 
  
 
 # Data Design
