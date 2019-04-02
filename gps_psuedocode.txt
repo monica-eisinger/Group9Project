@@ -1,0 +1,36 @@
+// this first part is all set up stuff for the location manager
+import CoreLocation
+import UIKit
+
+class ViewController: UIViewController, CLLocationManagerDelegate {
+  let manager = CLLocationManager()
+  
+  override func viewDidLoad() {
+    manager.delegate = self
+    manager.requestLocation() 
+  }
+  
+  // this is the function that gets the user's location
+  func locationManager(_ manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
+    // location has the location of the user
+    if let location = locations.first{
+      // i think this is the place where we would put the algorithm to find the
+      // user's distance from themselves to each of the doctor's offices
+      // the algorithm will depend on whether the doctor's offices addresses are just 
+      // the addresses or if they are in latitude and longitude
+    }
+    
+    // since we only need to get the user's location once
+    // theres also this other distance algorithm i found that might be easier for the project
+    // it takes the user's location and gives the distance (in meters) to a specified location
+    func(distance(from location: CLLocation) -> CLLocationDistance
+    
+    // we could take this and call the function in a for loop for all the doctor's offices?
+    // i don't know how the database manipulation would go but 
+    
+    for(all the doctor's offices){
+      // find the distance to the doctor's office
+      // store in a table
+    }
+    
+    // sort the table at the end
