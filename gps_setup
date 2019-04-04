@@ -56,7 +56,7 @@ for(all the relevant doctor's offices){
 }
 
 
-float getDistance(float userLatitude, float userLongitude, flot doctorLatitude, float doctorLongitude){
+float calculateDistance(float userLatitude, float userLongitude, flot doctorLatitude, float doctorLongitude){
   // use Haversine formula to find the distance between two coordinates
   
   // earth's radius in km (will convert to miles at the end
