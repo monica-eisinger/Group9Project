@@ -1,0 +1,79 @@
+// this should be the basic code for getting the user's location 
+// as a latitude and longitude coordinate, then converting it to a distance 
+
+// imports
+#import CoreLocation
+
+// declaration of the location manager
+CLLocationManager *locationManager
+
+// initialization of the location manager
+- (void)viewDidLoad {
+  locationManager = [[CLLocationManager alloc] init];
+  
+  //this is the default for the distanceFilter, i don't think theres a need to change it
+  locaitonManager.distanceFilter = kCLDistanceFilterNone; 
+  
+  // this gives us the best accuracy for the user's location, since we only need it once the time and power cost should be negligible
+  locationManager.desiredAccuracy = kCLLocationAccuracyBest;
+  
+  // we only need the user's location once, and it doesn't need to be updated afterwards, so we can use this function
+  [locationManager requestLocation];
+}
+
+// take the location data and use it to find distance to a doctor's office
+
+float userLatitude = locationManager.location.coordinate.latitude; 
+float userLongitude = locationManager.location.coordinate.longitude;
+
+// by this point in the app, we should already have a list of relevant doctor's offices that go with the disease that got determined
+// so we need to run through that list of doctor's offices and determine which are the closest
+
+// the user should first be prompted which distance range they want to search in (5,10,15)
+float distanceRange = (user input choice, 5, 10, 15 miles) 
+
+// i don't know how the database stuff works, but if there was like a constructor for a doctor's office, that would probably be useful
+// something like this
+// but of course if its easier to do it some other way with the database, just do that
+
+public DoctorsOffice(String name, String address, float latitude, float longitude){
+  String name;
+  String address; 
+  float latitude; 
+  float longitude; 
+}
+
+for(all the relevant doctor's offices){
+  // determine the distance the user is from the doctors office
+  float userDistance = calculateDistance(userLatitude, userLongitude, DoctorsOffice.latitude, DoctorsOffice.longitude)
+  if(userDistance <= distanceRange){
+    // if the distance fromt the doctor's office is in the user's specified range then include it for further consideration
+    // if it isn't then we don't want to do anything more with it
+    // i think it would be a good idea to add the doctors offices into a DoctorsOffice minheap 
+    // and then to dispay the results, we could just pop the top 5 DoctorsOffices from the minheap
+    minheap.add(DoctorsOffice); 
+  }
+}
+
+
+float getDistance(float userLatitude, float userLongitude, flot doctorLatitude, float doctorLongitude){
+  // use Haversine formula to find the distance between two coordinates
+  
+  // earth's radius in km (will convert to miles at the end
+  int earthRadius = 6371; 
+  
+  // get the difference in latitude and longitude in radians
+  float deltaLatitude = (userLatitude - doctorLatitude) * (float.pi / 180);
+  float deltaLongitude = (userLongitude - doctorLongitude) * (float.pi / 180); 
+  
+  float a = sin(deltaLatitude / 2) * sin(deltaLatitude / 2) + cos((userLatitude * (float.pi / 180)) * cos((doctorLatitude * float.pi /180))
+    * sin(deltaLongitude / 2) * sin(deltaLongitude / 2); 
+  
+  // atan2 is supposed to be a two argument arctangent
+  float c = 2 * atan2(a.squareRoot(), (1-a).squareRoot()); 
+  
+  // distance has been converted to miles
+  float distance = c * earthRadius * (1 / 1.60934); 
+  
+  return distance; 
+}
