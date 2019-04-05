@@ -40,3 +40,18 @@ Class project for COP 4331C-0002, Spring '19
 - [Test Cases](https://docs.google.com/document/d/1b3ZuP2eJtuamH37Ce9hzRJ43uQbA19Z3AurQEvtO3g4/edit?usp=sharing)
 - [UI Tests](https://github.com/monica-eisinger/Group9Project/tree/master/Sprint%202%20Code%20Updated/Sprint%202%20Code%20Updated/Sicko%20SearchUITests)
 - [Product Demonstration](https://www.youtube.com/watch?v=iDjaj73uHCQ&feature=youtu.be)
+
+## Sprint 3
+- [Product Backlog](https://docs.google.com/spreadsheets/d/1rNBva1ee07ogFZpcWI9iJyN0wHSwmDBkN0dmzKAA6IU/edit?usp=sharing)
+- [Sprint #2 Backlog](https://docs.google.com/spreadsheets/d/1QQoVaTSnNiyPfa_yWa9oGsHXB01OzesY4TLxuMmFTAs/edit?usp=sharing)
+  - [Burndown Chart](https://docs.google.com/spreadsheets/d/1XD0tkVLNedeBVB1wIj-Z2k20_RZudR7ss31ckYsIlb0/edit?usp=sharing) 
+- [Requirements](https://docs.google.com/spreadsheets/d/1IYUuANzikZOvW5kThcdnmqp9r00zzlG-06B0f2ZskJA/edit?usp=sharing)
+- Design Documents
+  - [System Architecture](https://github.com/monica-eisinger/Group9Project/blob/master/SystemArchitectureSprint2.md)
+  - [Class Diagram](https://github.com/monica-eisinger/Group9Project/blob/master/ClassDiagram2.pdf)
+  - [Sequence Diagrams](https://drive.google.com/file/d/1FgwX3KZyF1Re_MPK69ZhUFT7Ex0uP0r7/view?usp=sharing)
+- [Source Code](https://github.com/monica-eisinger/Group9Project/tree/master/Sprint%202%20Code%20Updated/Sprint%202%20Code%20Updated)
+- [Test Cases](https://docs.google.com/document/d/1b3ZuP2eJtuamH37Ce9hzRJ43uQbA19Z3AurQEvtO3g4/edit?usp=sharing)
+- [UI Tests](https://github.com/monica-eisinger/Group9Project/tree/master/Sprint%202%20Code%20Updated/Sprint%202%20Code%20Updated/Sicko%20SearchUITests)
+- [Product Demonstration](https://www.youtube.com/watch?v=iDjaj73uHCQ&feature=youtu.be)
+
