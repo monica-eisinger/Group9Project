@@ -46,11 +46,8 @@ Class project for COP 4331C-0002, Spring '19
 - [Sprint #3 Backlog](https://docs.google.com/spreadsheets/d/1PfrG509zs9uEnmucnupeVLfli2STDoRFNEXuExV3hYo/edit?usp=sharing)
   - [Burndown Chart](https://docs.google.com/spreadsheets/d/1q4o1iMKlO0muhTboea62rl9k25kky6_RAgtnqf0mPd8/edit?usp=sharing) 
 - [Requirements](https://docs.google.com/spreadsheets/d/1IYUuANzikZOvW5kThcdnmqp9r00zzlG-06B0f2ZskJA/edit?usp=sharing)
-- Design Documents
-  - [System Architecture](https://github.com/monica-eisinger/Group9Project/blob/master/SystemArchitectureSprint2.md)
-  - [Class Diagram](https://github.com/monica-eisinger/Group9Project/blob/master/ClassDiagram2.pdf)
-  - [Sequence Diagrams](https://drive.google.com/file/d/1FgwX3KZyF1Re_MPK69ZhUFT7Ex0uP0r7/view?usp=sharing)
-- [Source Code](https://github.com/monica-eisinger/Group9Project/tree/master/Sprint%202%20Code%20Updated/Sprint%202%20Code%20Updated)
+- [Design Documents](https://github.com/monica-eisinger/Group9Project/blob/master/SystemArchitectureSprint3.md)
+- [Source Code](https://github.com/monica-eisinger/Group9Project/tree/master/Sprint%203%20Code)
 - [Test Cases](https://docs.google.com/document/d/1b3ZuP2eJtuamH37Ce9hzRJ43uQbA19Z3AurQEvtO3g4/edit?usp=sharing)
 - [UI Tests](https://github.com/monica-eisinger/Group9Project/tree/master/Sprint%202%20Code%20Updated/Sprint%202%20Code%20Updated/Sicko%20SearchUITests)
 - [Product Demonstration]
