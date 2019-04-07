@@ -1,5 +1,6 @@
 # Program Organization
   [High Level Sketch](https://github.com/monica-eisinger/Group9Project/blob/master/High%20Level%20Sketch.png)
+  ![alt text](https://github.com/monica-eisinger/Group9Project/blob/master/High%20Level%20Sketch.png)
   
 In this Model-View-Controller architecture design, the doctor database and diagnoses databases are the models.  Within the  doctor database model, the doctor name, specialty, address, phone number, and website(if available) are stored.  Within the diagnoses database, the disease name, top symptoms, and brief description are stored. These can be traced back to the following user stores and requirements:
 - User Story 4: As a user, I want various diseases to be referenced in the app, so that it's more probable that I'll find a specialist.
