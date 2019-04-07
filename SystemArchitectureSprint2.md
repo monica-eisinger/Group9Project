@@ -38,8 +38,9 @@ In the view portion of the system architecture, the User view will able to list 
 
 
 # Major Classes
- [Class Diagram](https://github.com/monica-eisinger/Group9Project/blob/master/ClassDiagram2.pdf)
- ![alt text](https://github.com/monica-eisinger/Group9Project/blob/master/ClassDiagram2.pdf "Class Diagram")
+ [Class Diagram](https://github.com/monica-eisinger/Group9Project/blob/master/ClassDiagram2.png)
+ ![alt text](https://github.com/monica-eisinger/Group9Project/blob/master/ClassDiagram2.png "Class Diagram")
+
  
  UserInterface Class: Handles all the things that involve displaying information to the user and gathering user input. Hitting buttons, scrolling through lists, and displaying results to the user's screen. (Req: 2, 15, 16, 17, 20, 23)
  
