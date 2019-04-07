@@ -77,6 +77,7 @@ GPS Service: Determines the location of the user so we can get distance values o
 
 # Data Design
   [ERD Diagram of Database](https://github.com/monica-eisinger/Group9Project/blob/master/ERD%20Diagram%20of%20Database%20(1).png)
+  ![alt text](https://github.com/monica-eisinger/Group9Project/blob/master/ERD%20Diagram%20of%20Database%20(1).png "ERD Diagram of Database")
   
   The main databases that will be implemented in this project are a Diagnosis Database, that has the name of the disease, common symptoms, and a short description of the disease, and a Physician Database that has the name of the doctor, address, specialty, phone number, and email address, and website. The diagram showcases how the Diagnoses/Disease Database is used/treated by the Physician Database.
 
@@ -87,6 +88,7 @@ GPS Service: Determines the location of the user so we can get distance values o
 
 # User Interface Design
  [UI Sketch](https://github.com/monica-eisinger/Group9Project/blob/master/SickoSearch_UI.png)
+ ![alt text](https://github.com/monica-eisinger/Group9Project/blob/master/SickoSearch_UI.png "UI Sketch")
  
  Initial Screen: Displays the title of the app, the button that begins the search, and a nice funny gif or meme to cheer up the sick person using the app. (Req: 23,24) There must be a "begin search" button on the first page so that the user knows when their search begins, the button brings the user to the next page where they can enter their symptoms and begin their search. (23) There is a spot for an image to go on the screen, where we can put the meme/gif to cheer up the user. 
  
