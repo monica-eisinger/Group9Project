@@ -50,5 +50,5 @@ Class project for COP 4331C-0002, Spring '19
 - [Source Code](https://github.com/monica-eisinger/Group9Project/tree/master/Sprint%203%20Code)
 - [Test Cases]
 - [UI Tests]
-- [Product Demonstration]
+- [Product Demonstration](https://www.youtube.com/watch?v=N75wejHBYjs&feature=youtu.be)
 
