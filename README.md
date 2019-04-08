@@ -50,6 +50,6 @@ Class project for COP 4331C-0002, Spring '19
 - [Source Code](https://github.com/monica-eisinger/Group9Project/tree/master/Sprint%203%20Code/The_Actual_Final_Code/SickoSearch)
 - [Test Cases]
 - [UI Tests](https://github.com/monica-eisinger/Group9Project/tree/master/Sprint%203%20Code/The_Actual_Final_Code/SickoSearch/SickoSearch/UITesting)
--[Unit Tests](https://github.com/monica-eisinger/Group9Project/tree/master/Sprint%203%20Code/The_Actual_Final_Code/SickoSearch/SickoSearch/UnitTesting)
+[Unit Tests](https://github.com/monica-eisinger/Group9Project/tree/master/Sprint%203%20Code/The_Actual_Final_Code/SickoSearch/SickoSearch/UnitTesting)
 - [Product Demonstration](https://www.youtube.com/watch?v=N75wejHBYjs&feature=youtu.be)
 
