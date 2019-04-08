@@ -47,7 +47,7 @@ Class project for COP 4331C-0002, Spring '19
   - [Burndown Chart](https://docs.google.com/spreadsheets/d/1q4o1iMKlO0muhTboea62rl9k25kky6_RAgtnqf0mPd8/edit?usp=sharing) 
 - [Requirements](https://docs.google.com/spreadsheets/d/1IYUuANzikZOvW5kThcdnmqp9r00zzlG-06B0f2ZskJA/edit?usp=sharing)
 - [Design Documents](https://github.com/monica-eisinger/Group9Project/blob/master/SystemArchitectureSprint3.md)
-- [Source Code](https://github.com/monica-eisinger/Group9Project/tree/master/Sprint%203%20Code)
+- [Source Code](https://github.com/monica-eisinger/Group9Project/tree/master/Sprint%203%20Code/The_Actual_Final_Code/SickoSearch)
 - [Test Cases]
 - [UI Tests]
 - [Product Demonstration](https://www.youtube.com/watch?v=N75wejHBYjs&feature=youtu.be)
