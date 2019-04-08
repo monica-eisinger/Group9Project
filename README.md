@@ -48,7 +48,7 @@ Class project for COP 4331C-0002, Spring '19
 - [Requirements](https://docs.google.com/spreadsheets/d/1IYUuANzikZOvW5kThcdnmqp9r00zzlG-06B0f2ZskJA/edit?usp=sharing)
 - [Design Documents](https://github.com/monica-eisinger/Group9Project/blob/master/SystemArchitectureSprint3.md)
 - [Source Code](https://github.com/monica-eisinger/Group9Project/tree/master/Sprint%203%20Code/The_Actual_Final_Code/SickoSearch)
-- [Test Cases]
+- [Test Cases](https://docs.google.com/document/d/1zgsTBR0JNX-POa7y9ZmbZW77xtnHAYDjNsGO1bDN0lw/edit)
 - [UI Tests](https://github.com/monica-eisinger/Group9Project/tree/master/Sprint%203%20Code/The_Actual_Final_Code/SickoSearch/SickoSearch/UITesting)
 - [Unit Tests](https://github.com/monica-eisinger/Group9Project/tree/master/Sprint%203%20Code/The_Actual_Final_Code/SickoSearch/SickoSearch/UnitTesting)
 - [Product Demonstration](https://www.youtube.com/watch?v=N75wejHBYjs&feature=youtu.be)
