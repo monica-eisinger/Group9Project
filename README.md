@@ -49,6 +49,6 @@ Class project for COP 4331C-0002, Spring '19
 - [Design Documents](https://github.com/monica-eisinger/Group9Project/blob/master/SystemArchitectureSprint3.md)
 - [Source Code](https://github.com/monica-eisinger/Group9Project/tree/master/Sprint%203%20Code/The_Actual_Final_Code/SickoSearch)
 - [Test Cases]
-- [UI Tests](Sprint 3 Code/The_Actual_Final_Code/SickoSearch/SickoSearch/UITesting/UITesting.swift)
+- [UI Tests](https://github.com/monica-eisinger/Group9Project/tree/master/Sprint%203%20Code/The_Actual_Final_Code/SickoSearch/SickoSearch/UITesting)
 - [Product Demonstration](https://www.youtube.com/watch?v=N75wejHBYjs&feature=youtu.be)
 
